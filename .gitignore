@@ -2,3 +2,5 @@ oxford-iiit-pet
 train_dataset
 test_dataset
 data
+model.pth
+finetunedmodel.pth
