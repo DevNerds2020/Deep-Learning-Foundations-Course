@@ -3,3 +3,5 @@ train_dataset
 test_dataset
 data
 *.pth
+homework
+*.html
